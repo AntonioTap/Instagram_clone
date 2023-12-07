@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746822857952",
+    "project_id": "instaclon-709a9",
+    "storage_bucket": "instaclon-709a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746822857952:android:bc81ed1faa0da5d661cc85",
+        "android_client_info": {
+          "package_name": "com.example.samgram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WHT7U8PJGuZOP0T8ectiq71UW3B-0fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
